@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/10 - plumbing.md",
+                "file": "picoCTF/02 - General Skills - Parte 2/02 - Strings it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - plumbing"
+              "title": "02 - Strings it"
             }
           }
         ]
@@ -170,6 +170,19 @@
   },
   "active": "384d7f4389318c62",
   "lastOpenFiles": [
+    "picoCTF/02 - General Skills - Parte 2/01 - Based.md",
+    "picoCTF/02 - General Skills - Parte 2/03 - Wave a flag.md",
+    "picoCTF/02 - General Skills - Parte 2/02 - Strings it.md",
+    "picoCTF/02 - General Skills - Parte 2/04 - Static ain't always noise.md",
+    "picoCTF/02 - General Skills - Parte 2/05 - useless.md",
+    "picoCTF/02 - General Skills - Parte 2/07 - Magikarp Ground Mission.md",
+    "picoCTF/02 - General Skills - Parte 2/06 - Tab, Tab, Attack.md",
+    "picoCTF/02 - General Skills - Parte 2/08 - repetitions.md",
+    "picoCTF/02 - General Skills - Parte 2/09 - Big zip.md",
+    "picoCTF/02 - General Skills - Parte 2/10 - First Find.md",
+    "Bienvenido.md",
+    "picoCTF/01 - General Skills/10 - plumbing.md",
+    "picoCTF/02 - General Skills - Parte 2",
     "picoCTF/01 - General Skills/08 - Warmed Up.md",
     "cree un enlace.md",
     "picoCTF/01 - General Skills/09 - whats a net cat.md",
@@ -180,9 +193,7 @@
     "picoCTF/01 - General Skills/04 - First Grep.md",
     "picoCTF/01 - General Skills/03 - Bases.md",
     "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "picoCTF/01 - General Skills/10 - plumbing.md",
     "README.md",
-    "Bienvenido.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
     "picoCTF/01 - General Skills",
     "picoCTF"
