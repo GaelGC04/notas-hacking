@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c79a36c1f3899b",
+        "id": "ef2982f4a48ed9c3",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills - Parte 3/10 - Serpentine.md",
+                "file": "picoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Serpentine"
+              "title": "10 - ASCII Numbers"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a113bb131006df02",
@@ -170,6 +170,18 @@
   },
   "active": "ef9399cf3261f024",
   "lastOpenFiles": [
+    "picoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
+    "picoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "picoCTF/Tarea 1 - General Skills/08 - Binary search.md",
+    "picoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
+    "picoCTF/Tarea 1 - General Skills/06 - Blame game.md",
+    "picoCTF/Tarea 1 - General Skills/05 - Time machine.md",
+    "picoCTF/Tarea 1 - General Skills/04 - Commitment Issues.md",
+    "picoCTF/Tarea 1 - General Skills/03 - Special.md",
+    "picoCTF/Tarea 1 - General Skills/02 - Chrono.md",
+    "picoCTF/Tarea 1 - General Skills/01 - Permissions.md",
+    "picoCTF/03 - General Skills - Parte 3/10 - Serpentine.md",
+    "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03 - General Skills - Parte 3/09 - PW Crack 3.md",
     "picoCTF/03 - General Skills - Parte 3/08 - PW Crack 2.md",
     "picoCTF/03 - General Skills - Parte 3/07 - PW Crack 1.md",
@@ -179,7 +191,6 @@
     "picoCTF/03 - General Skills - Parte 3/03 - Codebook.md",
     "picoCTF/03 - General Skills - Parte 3/02 - runme.py.md",
     "picoCTF/03 - General Skills - Parte 3/01 - Super SSH.md",
-    "picoCTF/03 - General Skills - Parte 3/10 - Serpentine.md",
     "picoCTF/03 - General Skills - Parte 3",
     "picoCTF/02 - General Skills - Parte 2/02 - Strings it.md",
     "picoCTF/02 - General Skills - Parte 2/01 - Based.md",
@@ -187,17 +198,7 @@
     "picoCTF/02 - General Skills - Parte 2/04 - Static ain't always noise.md",
     "picoCTF/02 - General Skills - Parte 2/05 - useless.md",
     "picoCTF/02 - General Skills - Parte 2/07 - Magikarp Ground Mission.md",
-    "picoCTF/02 - General Skills - Parte 2/06 - Tab, Tab, Attack.md",
-    "picoCTF/02 - General Skills - Parte 2/08 - repetitions.md",
-    "picoCTF/02 - General Skills - Parte 2/09 - Big zip.md",
-    "picoCTF/02 - General Skills - Parte 2/10 - First Find.md",
-    "Bienvenido.md",
-    "picoCTF/01 - General Skills/10 - plumbing.md",
     "picoCTF/02 - General Skills - Parte 2",
-    "picoCTF/01 - General Skills/08 - Warmed Up.md",
-    "cree un enlace.md",
-    "picoCTF/01 - General Skills/09 - whats a net cat.md",
-    "picoCTF/01 - General Skills/07 - Obedient Cat.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
     "picoCTF/01 - General Skills",
     "picoCTF"
