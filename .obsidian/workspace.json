@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+                "file": "picoCTF/01 - Web1/06 - Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - ASCII Numbers"
+              "title": "06 - Client-side-again"
             }
           }
         ]
@@ -170,8 +170,19 @@
   },
   "active": "ef9399cf3261f024",
   "lastOpenFiles": [
-    "picoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
+    "picoCTF/01 - Web1/05 - picobrowser.md",
+    "picoCTF/01 - Web1/03 - logon.md",
+    "picoCTF/01 - Web1/02 - where are the robots.md",
+    "picoCTF/01 - Web1/01 - Insp3ct0r.md",
+    "picoCTF/01 - Web1/04 - dont-use-client-side.md",
+    "picoCTF/01 - Web1/06 - Client-side-again.md",
     "picoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "picoCTF/01 - Web1/08 - Binary search.md",
+    "picoCTF/01 - Web1/07 - Collaborative development.md",
+    "picoCTF/01 - Web1/09 - Binhexa.md",
+    "picoCTF/01 - Web1/10 - ASCII Numbers.md",
+    "picoCTF/01 - Web1",
+    "picoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
     "picoCTF/Tarea 1 - General Skills/08 - Binary search.md",
     "picoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
     "picoCTF/Tarea 1 - General Skills/06 - Blame game.md",
@@ -187,17 +198,7 @@
     "picoCTF/03 - General Skills - Parte 3/07 - PW Crack 1.md",
     "picoCTF/03 - General Skills - Parte 3/06 - fixme2.py.md",
     "picoCTF/03 - General Skills - Parte 3/05 - fixme1.py.md",
-    "picoCTF/03 - General Skills - Parte 3/04 - convertme.py.md",
-    "picoCTF/03 - General Skills - Parte 3/03 - Codebook.md",
-    "picoCTF/03 - General Skills - Parte 3/02 - runme.py.md",
-    "picoCTF/03 - General Skills - Parte 3/01 - Super SSH.md",
     "picoCTF/03 - General Skills - Parte 3",
-    "picoCTF/02 - General Skills - Parte 2/02 - Strings it.md",
-    "picoCTF/02 - General Skills - Parte 2/01 - Based.md",
-    "picoCTF/02 - General Skills - Parte 2/03 - Wave a flag.md",
-    "picoCTF/02 - General Skills - Parte 2/04 - Static ain't always noise.md",
-    "picoCTF/02 - General Skills - Parte 2/05 - useless.md",
-    "picoCTF/02 - General Skills - Parte 2/07 - Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills - Parte 2",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
     "picoCTF/01 - General Skills",
