@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - Forensic 1/05 - What Lies Within.md",
+                "file": "picoCTF/04 - Web4/04 - Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - What Lies Within"
+              "title": "04 - Most Cookies"
             }
           }
         ]
@@ -170,11 +170,17 @@
   },
   "active": "af9a83304ffb1bfa",
   "lastOpenFiles": [
+    "picoCTF/04 - Web4/03 - Trickster.md",
+    "picoCTF/04 - Web4/04 - Most Cookies.md",
+    "picoCTF/04 - Web4/02 - SOAP.md",
+    "picoCTF/04 - Web4/05 - What Lies Within.md",
+    "picoCTF/04 - Web4/01 - MatchTheRegex.md",
+    "picoCTF/01 - Forensic 1/05 - What Lies Within.md",
+    "picoCTF/04 - Web4",
     "picoCTF/01 - Forensic 1/04 - extensions.md",
     "picoCTF/01 - Forensic 1/03 - shark on wire 1.md",
     "picoCTF/01 - Forensic 1/02 - So Meta.md",
     "picoCTF/01 - Forensic 1/01 - Glory of the Garden.md",
-    "picoCTF/01 - Forensic 1/05 - What Lies Within.md",
     "picoCTF/01 - Forensic 1",
     "picoCTF/03 - Web3/02 - JaWT Scratchpad.md",
     "picoCTF/03 - Web3/01 - Irish-Name-Repo 1.md",
@@ -194,17 +200,11 @@
     "picoCTF/01 - Web1/01 - Insp3ct0r.md",
     "picoCTF/01 - Web1/04 - dont-use-client-side.md",
     "picoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-    "picoCTF/01 - Web1/08 - Binary search.md",
-    "picoCTF/01 - Web1/07 - Collaborative development.md",
-    "picoCTF/01 - Web1/09 - Binhexa.md",
-    "picoCTF/01 - Web1/10 - ASCII Numbers.md",
     "picoCTF/01 - Web1",
-    "picoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03 - General Skills - Parte 3",
     "picoCTF/02 - General Skills - Parte 2",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
-    "picoCTF/01 - General Skills",
-    "picoCTF"
+    "picoCTF/01 - General Skills"
   ]
 }
