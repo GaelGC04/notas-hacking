@@ -11,10 +11,14 @@
             "id": "a19076d461738499",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/03 - Forensic 3/05 - MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ]
@@ -166,6 +170,12 @@
   },
   "active": "a19076d461738499",
   "lastOpenFiles": [
+    "picoCTF/03 - Forensic 3/04 - tunn3l_v1s10n.md",
+    "picoCTF/03 - Forensic 3/03 - Matryoshka doll.md",
+    "picoCTF/03 - Forensic 3/02 - Webnet1.md",
+    "picoCTF/03 - Forensic 3/01 - WebNet0.md",
+    "picoCTF/03 - Forensic 3/05 - MacroHard WeakEdge.md",
+    "picoCTF/03 - Forensic 3",
     "picoCTF/Primer Examen - Parte 2 - Web/10 - WebSockFish.md",
     "picoCTF/Primer Examen - Parte 2 - Web/09 - SSTI2.md",
     "picoCTF/Primer Examen - Parte 2 - Web/05 - SSTI1.md",
@@ -190,17 +200,11 @@
     "picoCTF/05 - Retos Web/01 - Includes.md",
     "picoCTF/Primer Examen - Parte 1 - General Skills",
     "picoCTF/01 - General Skills/Sin nombre",
-    "picoCTF/02 - Forensic 2/04 - like1000.md",
-    "picoCTF/02 - Forensic 2/05 - shark on wire 2.md",
-    "picoCTF/02 - Forensic 2/01 - m00nwalk.md",
-    "picoCTF/02 - Forensic 2/02 - WhitePages.md",
-    "picoCTF/02 - Forensic 2/03 - c0rrupt.md",
     "picoCTF/02 - Forensic 2",
     "picoCTF/05 - Retos Web",
     "picoCTF/04 - Web4",
     "picoCTF/01 - Forensic 1",
     "picoCTF/03 - Web3",
-    "picoCTF/02 - Web2",
-    "picoCTF/01 - Web1"
+    "picoCTF/02 - Web2"
   ]
 }
